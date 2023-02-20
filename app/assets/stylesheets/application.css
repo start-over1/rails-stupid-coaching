@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+/* body{
+  text-align: center;
+  margin: 5px;
+ } */
+ .container{
+    height: 50px;
+    width: 50%;
+    margin-bottom: 10px;
+  }
+
+.input{
+   width : 100%;
+   height: 44px;
+  }
+ .btn{
+  position: absolute;
+  height: 44px;
+ }
